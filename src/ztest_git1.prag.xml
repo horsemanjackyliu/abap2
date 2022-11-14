@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_PRAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PRAG>
+    <PRAGMA>ZTEST_GIT1</PRAGMA>
+    <EXTENSION>E</EXTENSION>
+    <DESCRIPTION>TEST GIT1</DESCRIPTION>
+   </PRAG>
+  </asx:values>
+ </asx:abap>
+</abapGit>
